@@ -45,7 +45,7 @@ Userful Options:
 | Option  | Meaning
 | :---: | :---: |
 | -n | specify the number of last lines to print |
-| -f | loop forever, checking for new data at the end of the file(s)|
+| -f | follow, output appended data as the file(s) grow|
 
 ## [wildcard](https://www.computerhope.com/jargon/w/wildcard.htm): a symbol used to replace or represent one or more characters.
 
